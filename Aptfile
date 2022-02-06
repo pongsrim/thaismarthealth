@@ -1,0 +1,9 @@
+gunicorn
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-tha
+libsm6
+libxrender1
+libfontconfig1
+libice6
+libgl1
