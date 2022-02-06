@@ -1,1 +1,1 @@
-web: gunicorn thaismarthealth:app
+web: gunicorn app:app
